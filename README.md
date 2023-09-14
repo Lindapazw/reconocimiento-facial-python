@@ -2,6 +2,8 @@
 
 This repository contains a Python script for real-time face detection using the OpenCV library. It captures video from the default camera (0) and applies a Haar Cascade classifier to detect faces in the frames.
 
+![Vision-por-ordenador-iniciacion-rapida-de-reconocimiento-facial-en-el](https://github.com/Lindapazw/reconocimiento-facial-python/assets/88910652/456993a5-bc7f-4282-bdec-9e8e4da2766d)
+
 ## Dependencies
 
 - OpenCV
